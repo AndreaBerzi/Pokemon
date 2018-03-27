@@ -1,8 +1,8 @@
 # Pokemon
 
-Disponibile il DB:
-servername = hostddnstim.asuscomm.com
-porta = 3306
-username = user
-password = user
-dbname = pokemon
+### Disponibile il DB:<br>
+servername = hostddnstim.asuscomm.com<br>
+porta = 3306<br>
+username = user<br>
+password = user<br>
+dbname = pokemon<br>
